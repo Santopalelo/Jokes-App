@@ -7,12 +7,12 @@
 }
 
 body{
-    background-color: rgb(182, 175, 175);
+    background-color: orange;
 
 }
 .jokesContainer{
     width: 50%;
-    background-color: orange;
+    background-color: rgb(189, 175, 175);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
