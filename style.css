@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "sans-serif",'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-color: rgb(182, 175, 175);
+
+}
+.jokesContainer{
+    width: 50%;
+    background-color: orange;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.emoji{
+    background-color: rgb(150, 41, 41);
+    text-align: center;
+    font-size: 2rem;
+}
+.joke{
+    font-size: 2rem;
+    word-wrap: break-word;
+    text-align: center;
+}
+.btn{
+    display: block;
+    padding: .5rem;
+    border-radius: 5px;
+    border: 2px solid rgb(150, 41, 41); ;
+    margin: .5rem auto;
+    font-size: 1rem;
+    font-weight: 600;
+}
