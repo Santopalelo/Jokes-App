@@ -17,8 +17,12 @@ body{
     left: 50%;
     transform: translate(-50%,-50%);
     position: absolute;
+<<<<<<< HEAD
         padding: 1rem;
         border-radius: 5px;
+=======
+    jango
+>>>>>>> bf37cd7ba4db1a8e58de51a1820e7862579bce68
 }
 .emoji{
     background-color: rgb(150, 41, 41);
